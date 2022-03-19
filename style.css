@@ -1,0 +1,11 @@
+#footer {
+    bottom: 0;
+    position: fixed;
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    border: 3px solid palegoldenrod;
+}
